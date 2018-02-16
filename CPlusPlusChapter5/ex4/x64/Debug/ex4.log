@@ -1,0 +1,57 @@
+﻿Сборка начата 16.02.2018 12:00:07.
+     1>Проект "D:\Documents\Coding\C++\Реализация упражнений из Р.Лафоре Объектно-ориентированное программирование в C++\CPlusPlusChapter5\ex4\ex4.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\ex4.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\ex4.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x64\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\ex4.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc141.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x64\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\ex4.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc141.pdb" /Gd /TP /errorReport:prompt ex4.cpp
+         ex4.cpp
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "biggerDist"
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dist1"
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(19): error C2065: dist1: необъявленный идентификатор
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(20): error C2065: dist2: необъявленный идентификатор
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(22): error C2065: dist2: необъявленный идентификатор
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(22): error C2065: dist1: необъявленный идентификатор
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(22): error C3861: biggerDist: идентификатор не найден
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): error C2065: dist2: необъявленный идентификатор
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): error C2228: выражение слева от ".futs" должно представлять класс, структуру или объединение
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): note: тип: unknown-type
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): error C2228: выражение слева от ".inches" должно представлять класс, структуру или объединение
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): note: тип: unknown-type
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(29): error C2086: int Distance: переопределение
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(6): note:  см. объявление "Distance"
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(29): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "biggerDist"
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(30): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(30): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+     1>Сборка проекта "D:\Documents\Coding\C++\Реализация упражнений из Р.Лафоре Объектно-ориентированное программирование в C++\CPlusPlusChapter5\ex4\ex4.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Documents\Coding\C++\Реализация упражнений из Р.Лафоре Объектно-ориентированное программирование в C++\CPlusPlusChapter5\ex4\ex4.vcxproj" (целевой объект Build ) (1) ->
+       (ClCompile конечный объект) -> 
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "biggerDist"
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dist1"
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(19): error C2065: dist1: необъявленный идентификатор
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(20): error C2065: dist2: необъявленный идентификатор
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(22): error C2065: dist2: необъявленный идентификатор
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(22): error C2065: dist1: необъявленный идентификатор
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(22): error C3861: biggerDist: идентификатор не найден
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): error C2065: dist2: необъявленный идентификатор
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): error C2228: выражение слева от ".futs" должно представлять класс, структуру или объединение
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(23): error C2228: выражение слева от ".inches" должно представлять класс, структуру или объединение
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(29): error C2086: int Distance: переопределение
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(29): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "biggerDist"
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(30): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+         d:\documents\coding\c++\реализация упражнений из р.лафоре объектно-ориентированное программирование в c++\cpluspluschapter5\ex4\ex4.cpp(30): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+
+    Предупреждений: 0
+    Ошибок: 16
+
+Прошло времени 00:00:00.87
