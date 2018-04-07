@@ -1,0 +1,32 @@
+﻿Сборка начата 06.04.2018 16:43:13.
+     1>Проект "D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\ex10\ex10.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\ex10.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x64\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc141.pdb" /Gd /TP /FC /errorReport:prompt ex10.cpp
+         ex10.cpp
+     1>d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(52): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(53): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(23): warning C4715: char_to_dir: значение возвращается не при всех путях выполнения
+     1>d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(42): warning C4715: dir_to_char: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\x64\Debug\ex10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\x64\Debug\ex10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\x64\Debug\ex10.lib" /MACHINE:X64 x64\Debug\ex10.obj
+         ex10.vcxproj -> D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\x64\Debug\ex10.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\ex10.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\ex10.tlog\ex10.lastbuildstate".
+     1>Сборка проекта "D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\ex10\ex10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\ex10\ex10.vcxproj" (целевой объект Build ) (1) ->
+       (ClCompile конечный объект) -> 
+         d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(52): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+         d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(53): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+         d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(23): warning C4715: char_to_dir: значение возвращается не при всех путях выполнения
+         d:\program files\yandexdisk\documents\coding\c++\laforecplusplus\cpluspluschapter6\ex10\ex10.cpp(42): warning C4715: dir_to_char: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:00.88

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "задача-CPlusPlusChapter6",
+      "appliesTo": "CPlusPlusChapter6/CPlusPlusChapter6.sln",
+      "type": "launch"
+    }
+  ]
+}

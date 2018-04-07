@@ -1,0 +1,19 @@
+﻿Сборка начата 06.04.2018 16:23:25.
+     1>Проект "D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\ex1\ex1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\ex1.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         ex1.vcxproj -> D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\x64\Debug\ex1.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\ex1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\ex1.tlog\ex1.lastbuildstate".
+     1>Сборка проекта "D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\ex1\ex1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.39
