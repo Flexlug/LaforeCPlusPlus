@@ -1,2 +1,6 @@
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
+<<<<<<< HEAD
 Debug|x64|D:\Program Files\YandexDisk\Documents\Coding\C++\LaforeCPlusPlus\CPlusPlusChapter6\|
+=======
+Debug|x64|D:\Documents\Coding\GithubRepository\LaforeCPlusPlus\CPlusPlusChapter6\|
+>>>>>>> 343e92644400dc9d0b9768982b3207f4af916d6d

@@ -20,7 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
+<<<<<<< HEAD
     <ProjectGuid>{232CCC53-41F4-47F3-AAAC-4A9205E69A72}</ProjectGuid>
+=======
+    <ProjectGuid>{14034850-162B-4ADB-967A-8EB2498999B8}</ProjectGuid>
+>>>>>>> 343e92644400dc9d0b9768982b3207f4af916d6d
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ex10</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>

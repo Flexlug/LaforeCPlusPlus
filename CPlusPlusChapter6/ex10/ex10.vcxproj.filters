@@ -7,7 +7,11 @@
     </Filter>
     <Filter Include="Файлы заголовков">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+<<<<<<< HEAD
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+=======
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+>>>>>>> 343e92644400dc9d0b9768982b3207f4af916d6d
     </Filter>
     <Filter Include="Файлы ресурсов">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
